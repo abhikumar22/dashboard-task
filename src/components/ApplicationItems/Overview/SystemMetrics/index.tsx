@@ -23,7 +23,7 @@ const SystemMetrics = () => {
 
     return (
 
-        <div className="p-5 bg-green mt-5 bg-white border rounded-md flex-1">
+        <div className="p-5 bg-green mt-5 bg-white border rounded-md flex-1 shadow-lg md:shadow-md">
             <div className="">
                 System Metrics
             </div>
