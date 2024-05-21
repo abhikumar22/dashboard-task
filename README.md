@@ -1,4 +1,4 @@
-# Autocomplete Assignment
+# Internal Deployment Platform
 
 ## Live Preview
 https://main--internal-deployment-platform.netlify.app/
